@@ -19,6 +19,7 @@ Prepare a prototype of a machine learning model for Zyfra. The company develops 
 ### Technological Process
 How is gold extracted from ore? Let's look into the process stages. Mined ore undergoes primary processing to get the ore mixture or rougher feed, which is the raw material for flotation (also known as the rougher process). After flotation, the material is sent to two-stage purification.
 
+
 Process Details:
 
 - Flotation Gold ore mixture is fed into the float banks to obtain rougher Au concentrate and rougher tails (product residues with a low concentration of valuable metals). The stability of this process is affected by the volatile and non-optimal physicochemical state of the flotation pulp (a mixture of solid particles and liquid).
